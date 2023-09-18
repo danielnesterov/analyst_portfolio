@@ -1,5 +1,5 @@
 # analyst_portfolio
-В этом репозитории размещены мои проекты
+one small step for man, one giant leap for mankind :rocket:
 ## Содержание
 + О себе
 + Пет-проекты
