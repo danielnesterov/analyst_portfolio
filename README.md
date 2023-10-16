@@ -19,6 +19,8 @@ one small step for man, one giant leap for mankind :rocket:
 |-|----------|----------|----------|----------|
 | 1 | [Анализ показателей YouTube-канала Nat Geo WILD](Nat_Geo_WILD_project.ipynb) | В рамках проекта был проведен анализ статистики полных выпусков за 2022 и 2023 год, определены серии с высоким и низким рейтингом, а также проверены гипотезы о снижении уровня пользовательской активности в 2023 году| завершен | `pandas` `seaborn` `matplotlib` |
 
+Дашборд по проекту [Nat Geo Wild](https://public.tableau.com/app/profile/daniel.nesterov/viz/NatGeoWild/NatGeoWild) в `tableau`
+
 ## Яндекс.Практикум
 Проекты, выполненные в рамках обучения на курсе "Аналитик данных"
 
