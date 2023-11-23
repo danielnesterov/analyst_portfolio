@@ -4,8 +4,6 @@ one small step for man, one giant leap for mankind :rocket:
 + О себе
 + Пет-проекты
 + Яндекс.Практикум
-+ Сертификаты
-+ Контакты
 
 ## О себе
 + 23 года
